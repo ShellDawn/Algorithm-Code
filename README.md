@@ -1,3 +1,3 @@
 # ShellDawn
 
-Algorithm Code for Uva and codeforces problems
+Algorithm C++ Code for Uva and codeforces problems
